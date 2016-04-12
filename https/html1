@@ -7,8 +7,8 @@
                .div2{background-color:yellow;taxt-align:right;font-size:20px;}
                .div3{background-color:blue;taxt-align:right;font-size:30px;}
                .tengah{taxt-align:center;}
-               .kanan{text-align:riht;}
-               .kanan{text-align:right;}
+               .kanan{taxt-align:riht;}
+               .kanan{taxt-align:right;}
           </style>
           </head>
           <body>
@@ -25,6 +25,7 @@
               <h3 class="anti babi"</h3>
               <p>makanan yang tdak boleh di makan umat islam</P><br
               </div>
+              </table>
          </body>
          </html>
               
